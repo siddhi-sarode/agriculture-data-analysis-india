@@ -38,15 +38,15 @@ The dataset used in this project is publicly available on Kaggle:
 
 🌱 Top Crops by Production
 
-![Top Crops](top_crops.png)
+[Top Crops](images/top_crops.png)
 
  🗺️ Top States by Production
 
-![Top States](top_states.png)
+[Top States](images/_states.png)
 
 📈 Year-wise Production Trend
 
-[Year Trend](year_trend.png)
+[Year Trend](images/year_trend.png)
 
 
 
